@@ -9,5 +9,3 @@ def parrot("Pretty Bird!")
   puts phrase
   return phrase
 end
-
-parrot
